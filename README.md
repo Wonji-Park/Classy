@@ -1,2 +1,2 @@
-# Classy
-First Classy Project
+# Study_1 : Git & GitHub
+Git & GitHub 
