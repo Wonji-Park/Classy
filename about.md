@@ -9,24 +9,20 @@ published: true
 ---
 
 
-## Who Is Adeline?
 
+## Who Is Adeline?
 Chung-Ang Univ. 
 Major : Department Chinese Language and Cultures
 Interdisciplinary Major : Public Enterprise Management
 
 
-
 ## I am interested in..
-
 [Computer Programming, Back-end, Java, Spring, Volunteer, Study Multiple Languages]
 
 
 ## Likes/Dislikes
-
 I like *Music*,*Book*,*Musical*.
 I dislike *Vegetable*,*Running*.
 
 ## I want to say..
-
 I am very *Happy* that I can have the *great opportunity* to socialize with you guys!
