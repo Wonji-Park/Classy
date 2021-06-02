@@ -11,9 +11,11 @@ published: true
 
 
 ## Who Is Adeline?
-Chung-Ang Univ. 
-Major : Department Chinese Language and Cultures
-Interdisciplinary Major : Public Enterprise Management
+*Chung-Ang Univ. *
+
+*Major : Department Chinese Language and Cultures*
+
+*Interdisciplinary Major : Public Enterprise Management*
 
 
 ## I am interested in..
