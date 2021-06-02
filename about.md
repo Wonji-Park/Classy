@@ -12,7 +12,7 @@ published: true
 
 ## Who Is Adeline?
 
-**Chung-Ang Univ. **
+**Chung-Ang Univ.**
 
 *Major : Department Chinese Language and Cultures*
 
