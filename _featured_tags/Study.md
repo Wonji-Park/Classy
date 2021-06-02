@@ -8,8 +8,6 @@ description: |
   Study With Me
 published: true
 ---
-
 # Study
-
 
 ## Coding Test
